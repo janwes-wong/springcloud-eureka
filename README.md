@@ -78,7 +78,7 @@ set pro_meta=http://localhost:8080
 
 ### 配置方式二
 
-也可以通过该apollo github官方下载地址 https://github.com/ctripcorp/apollo/releases下载官方已打包好的压缩包
+也可以通过该apollo github官方下载地址 https://github.com/ctripcorp/apollo/releases 下载官方已打包好的压缩包
 
 
 
