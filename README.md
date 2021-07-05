@@ -3,9 +3,13 @@
 ## **spring cloud微服务simple project**
 
 ### eureka  服务注册与发现
-
+本案例中的eureka注册中心地址：http://localhost:8761
 ### apollo   服务配置中心
+apollo-adminservice地址：http://localhsot:8090
 
+apollo-configservice地址：http://localhost:8080
+
+apollo-portal地址：http://localhost:8070
 ### RestTemplate 服务调用（spring原生的服务间调用）
 
 ### swagger2 + knife4j  接口文档技术
@@ -16,11 +20,11 @@
 
 ### 配置方式一
 
-- **step 1：**IDEA clone Github上的代码 https://github.com/ctripcorp/apollo.git；
+- **step 1：** IDEA clone Github上的代码 https://github.com/ctripcorp/apollo.git；
 
-- **step 2：**在clone完成后的apollo项目中，找到scripts/sql文件路径下的apolloconfigdb.sql和apolloportaldb.sql的sql脚本，在Windows本地环境或Linux服务器下的MySQL数据库执行sql脚本即可；
+- **step 2：** 在clone完成后的apollo项目中，找到scripts/sql文件路径下的apolloconfigdb.sql和apolloportaldb.sql的sql脚本，在Windows本地环境或Linux服务器下的MySQL数据库执行sql脚本即可；
 
-- **step 3：**在apollo项目中找到scripts目录下的build.bat或build.sh
+- **step 3：** 在apollo项目中找到scripts目录下的build.bat或build.sh
 
 Windows系统环境下修改build.bat脚本文件
 
