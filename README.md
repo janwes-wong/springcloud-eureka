@@ -5,11 +5,9 @@
 ### eureka  服务注册与发现
 本案例中的eureka注册中心地址：http://localhost:8761
 ### apollo   服务配置中心
-apollo-adminservice地址：http://localhsot:8090
-
-apollo-configservice地址：http://localhost:8080
-
-apollo-portal地址：http://localhost:8070
+- apollo-adminservice地址：http://localhsot:8090
+- apollo-configservice地址：http://localhost:8080
+- apollo-portal地址：http://localhost:8070
 ### RestTemplate 服务调用（spring原生的服务间调用）
 
 ### swagger2 + knife4j  接口文档技术
